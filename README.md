@@ -36,4 +36,26 @@ Guess-my-Number-GAME/
    javac Exercise_Project3.java
    java com.company.Exercise_Project3
 
+## Example Gameplay
+---
+
+welcome to game of GUESS-MY-NUMBER
+RULES :- 1. Computer will generate a random number between 1 to 100.
+
+         2. You will have to guess the number.
+
+         3. Your guess will be higher or lower than the generated number.
+
+         4. Your number of guesses will be counted and it will be shown at the end of GAME.
+
+Enter your guess:- 50
+it's higher than guessed number! Try again.
+Enter your guess:- 25
+it's lower than guessed number! Try again.
+Enter your guess:- 37
+Yes, you got that right! You WON.
+The number of guesses you've taken are : 3
+
+---
+
 
