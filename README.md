@@ -14,3 +14,8 @@ A **Java console-based number guessing game** where the computer generates a ran
 ---
 
 ## 📂 Project Structure
+Guess-my-Number-GAME/
+
+│── Exercise_Project3.java # Main game implementation
+
+│── README.md # Documentation
