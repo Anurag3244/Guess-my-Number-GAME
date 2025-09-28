@@ -26,3 +26,14 @@ Guess-my-Number-GAME/
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Anurag3244/Guess-my-Number-GAME.git
+
+2. Navigate to the folder:
+   ```bash
+   cd Guess-my-Number-GAME
+
+3. Compile and run the program:
+   ```bash
+   javac Exercise_Project3.java
+   java com.company.Exercise_Project3
+
+
