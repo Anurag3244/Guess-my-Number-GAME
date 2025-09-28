@@ -38,6 +38,7 @@ Guess-my-Number-GAME/
 
 ## Example Gameplay
 welcome to game of GUESS-MY-NUMBER
+
 RULES :- 1. Computer will generate a random number between 1 to 100.
 
          2. You will have to guess the number.
