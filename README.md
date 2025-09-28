@@ -37,8 +37,6 @@ Guess-my-Number-GAME/
    java com.company.Exercise_Project3
 
 ## Example Gameplay
----
-
 welcome to game of GUESS-MY-NUMBER
 RULES :- 1. Computer will generate a random number between 1 to 100.
 
@@ -56,6 +54,5 @@ Enter your guess:- 37
 Yes, you got that right! You WON.
 The number of guesses you've taken are : 3
 
----
 
 
