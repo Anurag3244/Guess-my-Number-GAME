@@ -19,3 +19,10 @@ Guess-my-Number-GAME/
 │── Exercise_Project3.java # Main game implementation
 
 │── README.md # Documentation
+
+---
+
+## 🛠️ How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Anurag3244/Guess-my-Number-GAME.git
